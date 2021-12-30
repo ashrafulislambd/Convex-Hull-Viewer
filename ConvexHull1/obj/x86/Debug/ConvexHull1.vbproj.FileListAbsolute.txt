@@ -1,0 +1,18 @@
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\bin\Debug\ConvexHull1.exe
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\bin\Debug\ConvexHull1.pdb
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\bin\Debug\ConvexHull1.xml
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\obj\x86\Debug\ConvexHull1.Form1.resources
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\obj\x86\Debug\ConvexHull1.Resources.resources
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\obj\x86\Debug\ConvexHull1.vbproj.GenerateResource.Cache
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\obj\x86\Debug\ConvexHull1.exe
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\obj\x86\Debug\ConvexHull1.xml
+C:\Users\Md Ashraful Islam\AppData\Local\Temporary Projects\ConvexHull1\obj\x86\Debug\ConvexHull1.pdb
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\obj\x86\Debug\ConvexHull1.exe
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\obj\x86\Debug\ConvexHull1.xml
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\obj\x86\Debug\ConvexHull1.pdb
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\bin\Debug\ConvexHull1.exe
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\bin\Debug\ConvexHull1.pdb
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\bin\Debug\ConvexHull1.xml
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\obj\x86\Debug\ConvexHull1.Form1.resources
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\obj\x86\Debug\ConvexHull1.Resources.resources
+C:\Users\Md Ashraful Islam\documents\visual studio 2010\Projects\ConvexHull1\ConvexHull1\obj\x86\Debug\ConvexHull1.vbproj.GenerateResource.Cache
